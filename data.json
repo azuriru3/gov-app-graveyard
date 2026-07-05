@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-05T11:48:31.711Z",
+  "generatedAt": "2026-07-05T12:05:05.912Z",
   "summary": {
     "totalApps": 553,
     "shutdownCount": 52,
-    "freshCount": 118,
-    "staleCount": 128,
-    "abandonedCount": 255
+    "freshCount": 120,
+    "staleCount": 127,
+    "abandonedCount": 254
   },
   "apps": [
     {
@@ -942,17 +942,12 @@
         "iOS"
       ],
       "released": "2016-01-27",
-      "lastUpdated": "2020-12-17",
+      "lastUpdated": null,
       "shutdown": "2025-06-20",
       "status": "shutdown",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "SKUAD ANTIDADAH",
-        "currentVersionReleaseDate": "2020-12-17T22:39:38Z",
-        "averageUserRating": 2.375,
-        "userRatingCount": 8
-      }
+      "itunes": null
     },
     {
       "appId": "73",
@@ -1052,17 +1047,12 @@
         "iOS"
       ],
       "released": "2016-01-27",
-      "lastUpdated": "2026-04-09",
+      "lastUpdated": "2016-01-27",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "PBTCare",
-        "currentVersionReleaseDate": "2026-04-09T12:58:35Z",
-        "averageUserRating": 1.52885,
-        "userRatingCount": 104
-      }
+      "itunes": null
     },
     {
       "appId": "173",
@@ -1159,17 +1149,12 @@
         "iOS"
       ],
       "released": "2016-03-17",
-      "lastUpdated": "2019-12-30",
+      "lastUpdated": "2025-02-25",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "myMQR",
-        "currentVersionReleaseDate": "2019-12-30T16:58:03Z",
-        "averageUserRating": 3,
-        "userRatingCount": 4
-      }
+      "itunes": null
     },
     {
       "appId": "187",
@@ -1329,17 +1314,12 @@
         "iOS"
       ],
       "released": "2016-05-03",
-      "lastUpdated": "2026-06-22",
+      "lastUpdated": "2016-05-03",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "PriceCatcher",
-        "currentVersionReleaseDate": "2026-06-22T18:28:42Z",
-        "averageUserRating": 3.0566,
-        "userRatingCount": 106
-      }
+      "itunes": null
     },
     {
       "appId": "213",
@@ -1364,17 +1344,12 @@
         "iOS"
       ],
       "released": "2016-05-06",
-      "lastUpdated": "2024-03-15",
+      "lastUpdated": "2019-08-06",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "mySWCorp",
-        "currentVersionReleaseDate": "2024-03-15T13:07:44Z",
-        "averageUserRating": 0,
-        "userRatingCount": 0
-      }
+      "itunes": null
     },
     {
       "appId": "219",
@@ -1790,12 +1765,17 @@
         "iOS"
       ],
       "released": "2016-08-12",
-      "lastUpdated": "2020-11-19",
+      "lastUpdated": "2026-03-07",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "SINERGI MPPD",
+        "currentVersionReleaseDate": "2026-03-07T17:42:09Z",
+        "averageUserRating": 0,
+        "userRatingCount": 0
+      }
     },
     {
       "appId": "285",
@@ -1909,12 +1889,17 @@
         "iOS"
       ],
       "released": "2016-10-27",
-      "lastUpdated": "2019-04-23",
+      "lastUpdated": "2026-05-27",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "myUTHM",
+        "currentVersionReleaseDate": "2026-05-27T19:10:34Z",
+        "averageUserRating": 3.33333,
+        "userRatingCount": 45
+      }
     },
     {
       "appId": "307",
@@ -2057,12 +2042,17 @@
         "iOS"
       ],
       "released": "2017-01-13",
-      "lastUpdated": "2025-01-06",
+      "lastUpdated": "2025-01-28",
       "shutdown": null,
       "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "SMA Yuran",
+        "currentVersionReleaseDate": "2025-01-28T11:12:41Z",
+        "averageUserRating": 0,
+        "userRatingCount": 0
+      }
     },
     {
       "appId": "331",
@@ -2303,12 +2293,17 @@
         "iOS"
       ],
       "released": "2017-04-13",
-      "lastUpdated": "2023-11-27",
+      "lastUpdated": "2017-04-26",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "100 TIP TANAMAN",
+        "currentVersionReleaseDate": "2017-04-26T10:55:02Z",
+        "averageUserRating": 4.33333,
+        "userRatingCount": 6
+      }
     },
     {
       "appId": "373",
@@ -3266,12 +3261,17 @@
         "iOS"
       ],
       "released": "2018-09-04",
-      "lastUpdated": "2018-09-04",
+      "lastUpdated": "2026-06-23",
       "shutdown": "2022-11-10",
       "status": "shutdown",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "ChatGPT",
+        "currentVersionReleaseDate": "2026-06-23T15:59:51Z",
+        "averageUserRating": 4.83488,
+        "userRatingCount": 352140
+      }
     },
     {
       "appId": "529",
@@ -3327,12 +3327,17 @@
         "iOS"
       ],
       "released": "2018-09-19",
-      "lastUpdated": "2018-09-20",
+      "lastUpdated": "2026-06-29",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "Moovit: Public Transport Live",
+        "currentVersionReleaseDate": "2026-06-29T17:41:58Z",
+        "averageUserRating": 4.4258,
+        "userRatingCount": 7318
+      }
     },
     {
       "appId": "541",
@@ -3371,12 +3376,17 @@
         "iOS"
       ],
       "released": "2018-09-20",
-      "lastUpdated": "2020-04-02",
+      "lastUpdated": "2026-07-02",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "WhatsApp Business",
+        "currentVersionReleaseDate": "2026-07-02T15:03:01Z",
+        "averageUserRating": 4.70817,
+        "userRatingCount": 148734
+      }
     },
     {
       "appId": "547",
