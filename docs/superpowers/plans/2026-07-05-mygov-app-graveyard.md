@@ -1,7 +1,5 @@
 # MyGov App Graveyard Implementation Plan
 
-> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
-
 **Goal:** Ship a static, weekly-refreshing dashboard that shows which of Malaysia's 553+ official government apps are actively maintained vs. de facto abandoned, with a "Hall of Shame" for neglected health/disaster/safety apps.
 
 **Architecture:** A GitHub Actions workflow runs weekly, downloads the official GAMMA app registry CSV, classifies every app's staleness, cross-checks iOS apps against Apple's public iTunes Search API, writes `data.json`, and deploys a static HTML/CSS/JS page (no framework, no backend, no database) to GitHub Pages. The static page fetches `data.json` client-side at load time.

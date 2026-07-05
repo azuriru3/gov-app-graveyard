@@ -5,7 +5,7 @@
 Malaysia's official GAMMA registry (`government_apps.csv` on data.gov.my) lists 553+
 official government mobile apps. A quick analysis during brainstorming found that
 while only 52 are formally marked "shutdown," 367 (67%) of the rest haven't been
-updated in over a year, and 240 (43%) haven't been updated in 3+ years — including
+updated in over a year, and 240 (43%) haven't been updated in 3+ years, including
 apps in safety-relevant categories (e.g. a disaster-response app untouched since 2016).
 
 This project ships a small, shareable, always-fresh dashboard that makes this
@@ -14,10 +14,10 @@ abandoned, and which of the abandoned ones matter (health, safety, disaster,
 citizen services). The goal is to spark public discussion about government app
 maintenance, backed by verifiable public data rather than anecdote.
 
-This is the first of two planned projects. A second project — an actual Android
+This is the first of two planned projects. A second project, an actual Android
 app replacement for whichever neglected-but-needed category this dashboard
-surfaces as worst — is intended as a follow-up, built later with Fable 5. That
-second project is out of scope for this spec.
+surfaces as worst, is intended as a follow-up. That second project is out of
+scope for this spec.
 
 ## Non-goals
 
