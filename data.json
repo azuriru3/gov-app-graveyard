@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-05T12:05:05.912Z",
+  "generatedAt": "2026-07-05T12:30:45.343Z",
   "summary": {
     "totalApps": 553,
     "shutdownCount": 52,
-    "freshCount": 120,
-    "staleCount": 127,
-    "abandonedCount": 254
+    "freshCount": 128,
+    "staleCount": 124,
+    "abandonedCount": 249
   },
   "apps": [
     {
@@ -942,12 +942,17 @@
         "iOS"
       ],
       "released": "2016-01-27",
-      "lastUpdated": null,
+      "lastUpdated": "2020-12-17",
       "shutdown": "2025-06-20",
       "status": "shutdown",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "SKUAD ANTIDADAH",
+        "currentVersionReleaseDate": "2020-12-17T22:39:38Z",
+        "averageUserRating": 2.375,
+        "userRatingCount": 8
+      }
     },
     {
       "appId": "73",
@@ -974,12 +979,17 @@
         "iOS"
       ],
       "released": "2016-01-27",
-      "lastUpdated": "2025-04-15",
+      "lastUpdated": "2026-05-06",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "GAMMA.my",
+        "currentVersionReleaseDate": "2026-05-06T06:10:30Z",
+        "averageUserRating": 1.5625,
+        "userRatingCount": 32
+      }
     },
     {
       "appId": "79",
@@ -1047,12 +1057,17 @@
         "iOS"
       ],
       "released": "2016-01-27",
-      "lastUpdated": "2016-01-27",
+      "lastUpdated": "2026-04-09",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "PBTCare",
+        "currentVersionReleaseDate": "2026-04-09T12:58:35Z",
+        "averageUserRating": 1.52885,
+        "userRatingCount": 104
+      }
     },
     {
       "appId": "173",
@@ -1149,12 +1164,17 @@
         "iOS"
       ],
       "released": "2016-03-17",
-      "lastUpdated": "2025-02-25",
+      "lastUpdated": "2019-12-30",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "myMQR",
+        "currentVersionReleaseDate": "2019-12-30T16:58:03Z",
+        "averageUserRating": 3,
+        "userRatingCount": 4
+      }
     },
     {
       "appId": "187",
@@ -1314,12 +1334,17 @@
         "iOS"
       ],
       "released": "2016-05-03",
-      "lastUpdated": "2016-05-03",
+      "lastUpdated": "2026-06-22",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "PriceCatcher",
+        "currentVersionReleaseDate": "2026-06-22T18:28:42Z",
+        "averageUserRating": 3.0566,
+        "userRatingCount": 106
+      }
     },
     {
       "appId": "213",
@@ -1344,12 +1369,17 @@
         "iOS"
       ],
       "released": "2016-05-06",
-      "lastUpdated": "2019-08-06",
+      "lastUpdated": "2024-03-15",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "mySWCorp",
+        "currentVersionReleaseDate": "2024-03-15T13:07:44Z",
+        "averageUserRating": 0,
+        "userRatingCount": 0
+      }
     },
     {
       "appId": "219",
@@ -1435,12 +1465,17 @@
         "iOS"
       ],
       "released": "2016-05-27",
-      "lastUpdated": "2018-05-24",
+      "lastUpdated": "2024-02-20",
       "shutdown": "2024-05-15",
       "status": "shutdown",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "Volunteer Smartphone Patrol",
+        "currentVersionReleaseDate": "2024-02-20T10:49:49Z",
+        "averageUserRating": 2.50145,
+        "userRatingCount": 345
+      }
     },
     {
       "appId": "231",
@@ -1495,12 +1530,17 @@
         "iOS"
       ],
       "released": "2016-06-07",
-      "lastUpdated": "2016-06-07",
+      "lastUpdated": "2026-04-30",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "MYJalan2.0 KKR",
+        "currentVersionReleaseDate": "2026-04-30T18:48:41Z",
+        "averageUserRating": 2.29167,
+        "userRatingCount": 24
+      }
     },
     {
       "appId": "241",
@@ -1540,12 +1580,17 @@
         "iOS"
       ],
       "released": "2016-06-15",
-      "lastUpdated": "2016-06-15",
+      "lastUpdated": "2025-03-14",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "PgGOV ePPN",
+        "currentVersionReleaseDate": "2025-03-14T03:54:42Z",
+        "averageUserRating": 5,
+        "userRatingCount": 1
+      }
     },
     {
       "appId": "249",
@@ -2247,12 +2292,17 @@
         "iOS"
       ],
       "released": "2017-03-23",
-      "lastUpdated": "2025-11-27",
+      "lastUpdated": "2024-02-22",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "InfoBencanaJKM",
+        "currentVersionReleaseDate": "2024-02-22T09:56:27Z",
+        "averageUserRating": 4.625,
+        "userRatingCount": 8
+      }
     },
     {
       "appId": "367",
@@ -2314,12 +2364,17 @@
         "iOS"
       ],
       "released": "2017-04-13",
-      "lastUpdated": "2023-11-27",
+      "lastUpdated": "2017-11-04",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "AGRIMATHS",
+        "currentVersionReleaseDate": "2017-11-04T02:02:41Z",
+        "averageUserRating": 4.8,
+        "userRatingCount": 5
+      }
     },
     {
       "appId": "375",
@@ -2605,12 +2660,17 @@
         "iOS"
       ],
       "released": "2017-09-18",
-      "lastUpdated": "2024-08-09",
+      "lastUpdated": "2024-06-19",
       "shutdown": null,
       "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "MySPR Semak",
+        "currentVersionReleaseDate": "2024-06-19T11:51:15Z",
+        "averageUserRating": 2.52941,
+        "userRatingCount": 170
+      }
     },
     {
       "appId": "415",
@@ -2621,12 +2681,17 @@
         "iOS"
       ],
       "released": "2017-09-18",
-      "lastUpdated": "2023-09-21",
+      "lastUpdated": "2020-03-05",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "eKehakiman",
+        "currentVersionReleaseDate": "2020-03-05T23:36:49Z",
+        "averageUserRating": 5,
+        "userRatingCount": 2
+      }
     },
     {
       "appId": "417",
@@ -2755,12 +2820,17 @@
         "iOS"
       ],
       "released": "2017-11-01",
-      "lastUpdated": "2017-11-02",
+      "lastUpdated": "2021-12-01",
       "shutdown": null,
       "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "Go Rail",
+        "currentVersionReleaseDate": "2021-12-01T22:59:08Z",
+        "averageUserRating": 0,
+        "userRatingCount": 0
+      }
     },
     {
       "appId": "443",
@@ -2855,12 +2925,17 @@
         "iOS"
       ],
       "released": "2017-11-27",
-      "lastUpdated": "2017-11-27",
+      "lastUpdated": "2026-06-22",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "RTMKlik",
+        "currentVersionReleaseDate": "2026-06-22T16:30:28Z",
+        "averageUserRating": 2.12207,
+        "userRatingCount": 426
+      }
     },
     {
       "appId": "459",
@@ -2899,12 +2974,17 @@
         "iOS"
       ],
       "released": "2017-11-27",
-      "lastUpdated": "2025-02-27",
+      "lastUpdated": "2026-06-22",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "PriceCatcher",
+        "currentVersionReleaseDate": "2026-06-22T18:28:42Z",
+        "averageUserRating": 3.0566,
+        "userRatingCount": 106
+      }
     },
     {
       "appId": "465",
@@ -2959,12 +3039,17 @@
         "iOS"
       ],
       "released": "2017-11-27",
-      "lastUpdated": "2017-11-27",
+      "lastUpdated": "2026-06-23",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "ChatGPT",
+        "currentVersionReleaseDate": "2026-06-23T15:59:51Z",
+        "averageUserRating": 4.83488,
+        "userRatingCount": 352140
+      }
     },
     {
       "appId": "477",
@@ -3004,12 +3089,17 @@
         "iOS"
       ],
       "released": "2017-12-12",
-      "lastUpdated": "2020-08-10",
+      "lastUpdated": "2021-02-18",
       "shutdown": "2024-08-21",
       "status": "shutdown",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "MCG Info",
+        "currentVersionReleaseDate": "2021-02-18T13:56:08Z",
+        "averageUserRating": 4,
+        "userRatingCount": 2
+      }
     },
     {
       "appId": "483",
@@ -3055,7 +3145,12 @@
       "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "MySales Tracker",
+        "currentVersionReleaseDate": "2025-03-21T01:53:41Z",
+        "averageUserRating": 1.2029,
+        "userRatingCount": 69
+      }
     },
     {
       "appId": "489",
@@ -3141,12 +3236,17 @@
         "iOS"
       ],
       "released": "2018-01-29",
-      "lastUpdated": "2026-03-03",
+      "lastUpdated": "2026-03-02",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "UPUPocket",
+        "currentVersionReleaseDate": "2026-03-02T22:54:14Z",
+        "averageUserRating": 2.07578,
+        "userRatingCount": 607
+      }
     },
     {
       "appId": "507",
@@ -3261,17 +3361,12 @@
         "iOS"
       ],
       "released": "2018-09-04",
-      "lastUpdated": "2026-06-23",
+      "lastUpdated": "2018-09-04",
       "shutdown": "2022-11-10",
       "status": "shutdown",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "ChatGPT",
-        "currentVersionReleaseDate": "2026-06-23T15:59:51Z",
-        "averageUserRating": 4.83488,
-        "userRatingCount": 352140
-      }
+      "itunes": null
     },
     {
       "appId": "529",
@@ -3327,17 +3422,12 @@
         "iOS"
       ],
       "released": "2018-09-19",
-      "lastUpdated": "2026-06-29",
+      "lastUpdated": "2018-09-20",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "Moovit: Public Transport Live",
-        "currentVersionReleaseDate": "2026-06-29T17:41:58Z",
-        "averageUserRating": 4.4258,
-        "userRatingCount": 7318
-      }
+      "itunes": null
     },
     {
       "appId": "541",
@@ -3566,12 +3656,17 @@
         "iOS"
       ],
       "released": "2019-01-15",
-      "lastUpdated": "2020-02-14",
+      "lastUpdated": "2026-06-22",
       "shutdown": "2023-10-26",
       "status": "shutdown",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "Hadith Portal | جامع السنة",
+        "currentVersionReleaseDate": "2026-06-22T21:23:47Z",
+        "averageUserRating": 0,
+        "userRatingCount": 0
+      }
     },
     {
       "appId": "579",
@@ -3598,12 +3693,17 @@
         "iOS"
       ],
       "released": "2019-01-28",
-      "lastUpdated": "2020-07-07",
+      "lastUpdated": "2019-02-08",
       "shutdown": null,
       "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "Smart Muslim",
+        "currentVersionReleaseDate": "2019-02-08T13:00:48Z",
+        "averageUserRating": 1.8,
+        "userRatingCount": 5
+      }
     },
     {
       "appId": "583",
@@ -3740,12 +3840,17 @@
         "iOS"
       ],
       "released": "2019-04-05",
-      "lastUpdated": "2024-03-12",
+      "lastUpdated": "2023-12-01",
       "shutdown": null,
       "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "i-KrediKom",
+        "currentVersionReleaseDate": "2023-12-01T16:07:08Z",
+        "averageUserRating": 4,
+        "userRatingCount": 39
+      }
     },
     {
       "appId": "605",
@@ -3957,12 +4062,17 @@
         "iOS"
       ],
       "released": "2019-10-11",
-      "lastUpdated": "2024-09-20",
+      "lastUpdated": "2026-06-11",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "eParlimen KPWKM",
+        "currentVersionReleaseDate": "2026-06-11T19:23:17Z",
+        "averageUserRating": 1,
+        "userRatingCount": 1
+      }
     },
     {
       "appId": "655",
@@ -3989,12 +4099,17 @@
         "iOS"
       ],
       "released": "2019-10-23",
-      "lastUpdated": "2020-04-15",
+      "lastUpdated": "2020-03-12",
       "shutdown": null,
       "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "JUPEM eBiz GeoPortal",
+        "currentVersionReleaseDate": "2020-03-12T17:09:10Z",
+        "averageUserRating": 0,
+        "userRatingCount": 0
+      }
     },
     {
       "appId": "661",
@@ -4005,12 +4120,17 @@
         "iOS"
       ],
       "released": "2019-10-25",
-      "lastUpdated": "2025-11-04",
+      "lastUpdated": "2025-10-23",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "PPAM",
+        "currentVersionReleaseDate": "2025-10-23T22:26:47Z",
+        "averageUserRating": 5,
+        "userRatingCount": 13
+      }
     },
     {
       "appId": "667",
@@ -4051,12 +4171,17 @@
         "iOS"
       ],
       "released": "2019-11-18",
-      "lastUpdated": "2019-11-19",
+      "lastUpdated": "2026-07-01",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "eGovPH",
+        "currentVersionReleaseDate": "2026-07-01T13:05:44Z",
+        "averageUserRating": 4.77289,
+        "userRatingCount": 273
+      }
     },
     {
       "appId": "673",
@@ -4066,12 +4191,17 @@
         "iOS"
       ],
       "released": "2019-11-18",
-      "lastUpdated": "2019-11-19",
+      "lastUpdated": "2026-07-02",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "Flipbook Maker - eBrochure app",
+        "currentVersionReleaseDate": "2026-07-02T05:48:45Z",
+        "averageUserRating": 1,
+        "userRatingCount": 1
+      }
     },
     {
       "appId": "675",
@@ -4127,12 +4257,17 @@
         "iOS"
       ],
       "released": "2019-12-19",
-      "lastUpdated": "2019-12-31",
+      "lastUpdated": "2020-07-23",
       "shutdown": "2025-05-14",
       "status": "shutdown",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "Mobile JPPH",
+        "currentVersionReleaseDate": "2020-07-23T22:10:02Z",
+        "averageUserRating": 4,
+        "userRatingCount": 1
+      }
     },
     {
       "appId": "683",
@@ -4142,12 +4277,17 @@
         "iOS"
       ],
       "released": "2020-02-06",
-      "lastUpdated": "2025-07-15",
+      "lastUpdated": "2020-01-24",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "eBantuanJKM",
+        "currentVersionReleaseDate": "2020-01-24T20:41:29Z",
+        "averageUserRating": 2.22222,
+        "userRatingCount": 9
+      }
     },
     {
       "appId": "685",
@@ -4158,12 +4298,17 @@
         "iOS"
       ],
       "released": "2020-02-07",
-      "lastUpdated": "2025-03-14",
+      "lastUpdated": "2025-03-12",
       "shutdown": null,
       "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "MyOri",
+        "currentVersionReleaseDate": "2025-03-12T09:20:40Z",
+        "averageUserRating": 0,
+        "userRatingCount": 0
+      }
     },
     {
       "appId": "687",
@@ -4174,12 +4319,17 @@
         "iOS"
       ],
       "released": "2020-02-12",
-      "lastUpdated": "2020-09-14",
+      "lastUpdated": "2022-07-01",
       "shutdown": null,
       "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "NPRA Product Status",
+        "currentVersionReleaseDate": "2022-07-01T10:47:31Z",
+        "averageUserRating": 4.16667,
+        "userRatingCount": 18
+      }
     },
     {
       "appId": "705",
@@ -4211,7 +4361,12 @@
       "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "MURNInets 2.0",
+        "currentVersionReleaseDate": "2023-12-01T02:51:45Z",
+        "averageUserRating": 5,
+        "userRatingCount": 1
+      }
     },
     {
       "appId": "719",
@@ -4345,12 +4500,17 @@
         "iOS"
       ],
       "released": "2020-06-18",
-      "lastUpdated": "2020-07-08",
+      "lastUpdated": "2026-04-21",
       "shutdown": "2023-04-03",
       "status": "shutdown",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "DOSM Mobile",
+        "currentVersionReleaseDate": "2026-04-21T20:09:03Z",
+        "averageUserRating": 1,
+        "userRatingCount": 3
+      }
     },
     {
       "appId": "740",
@@ -5219,12 +5379,17 @@
         "iOS"
       ],
       "released": "2022-01-06",
-      "lastUpdated": "2022-01-06",
+      "lastUpdated": "2022-01-07",
       "shutdown": null,
       "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "STAPS",
+        "currentVersionReleaseDate": "2022-01-07T09:45:31Z",
+        "averageUserRating": 1.4,
+        "userRatingCount": 5
+      }
     },
     {
       "appId": "808",
@@ -6246,12 +6411,17 @@
         "iOS"
       ],
       "released": "2023-03-30",
-      "lastUpdated": "2023-03-30",
+      "lastUpdated": "2026-06-27",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "MelakaPay",
+        "currentVersionReleaseDate": "2026-06-27T02:12:09Z",
+        "averageUserRating": 1.32479,
+        "userRatingCount": 117
+      }
     },
     {
       "appId": "877",
