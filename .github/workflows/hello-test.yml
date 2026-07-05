@@ -3,6 +3,13 @@ on:
   schedule:
     - cron: '0 3 * * 1'
   workflow_dispatch: {}
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
 jobs:
   hello:
     runs-on: ubuntu-latest
