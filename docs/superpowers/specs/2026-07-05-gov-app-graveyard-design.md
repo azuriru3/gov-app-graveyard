@@ -1,4 +1,4 @@
-# MyGov App Graveyard — Design
+# Gov App Graveyard — Design
 
 ## Purpose
 

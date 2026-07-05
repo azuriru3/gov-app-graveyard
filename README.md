@@ -1,10 +1,10 @@
-# MyGov App Graveyard
+# Gov App Graveyard
 
-![Refresh workflow](https://github.com/azuriru3/mygov-app-graveyard/actions/workflows/refresh.yml/badge.svg)
+![Refresh workflow](https://github.com/azuriru3/gov-app-graveyard/actions/workflows/refresh.yml/badge.svg)
 
 Malaysia's official [GAMMA app registry](https://data.gov.my/data-catalogue/government_apps) lists 500+ government mobile apps. This dashboard tracks how many of them are actually still maintained.
 
-**[View the live dashboard](https://azuriru3.github.io/mygov-app-graveyard/)**
+**[View the live dashboard](https://azuriru3.github.io/gov-app-graveyard/)**
 
 ## What this shows
 
@@ -14,7 +14,7 @@ Malaysia's official [GAMMA app registry](https://data.gov.my/data-catalogue/gove
 
 ## How it works
 
-A GitHub Actions workflow refreshes the data weekly: it downloads the official CSV, classifies every app's staleness, cross-checks iOS apps against the iTunes Search API, and redeploys the static dashboard. See [the design spec](docs/superpowers/specs/2026-07-05-mygov-app-graveyard-design.md) for full methodology.
+A GitHub Actions workflow refreshes the data weekly: it downloads the official CSV, classifies every app's staleness, cross-checks iOS apps against the iTunes Search API, and redeploys the static dashboard. See [the design spec](docs/superpowers/specs/2026-07-05-gov-app-graveyard-design.md) for full methodology.
 
 Think an app here is mischaracterized? [Open a correction](../../issues/new?template=correction.md). This is independent analysis of public data, not an official statement.
 

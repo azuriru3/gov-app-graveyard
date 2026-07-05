@@ -1,6 +1,6 @@
 ---
 name: Correction
-about: Flag an app that's mischaracterized in the MyGov App Graveyard
+about: Flag an app that's mischaracterized in the Gov App Graveyard
 title: "Correction: <app name>"
 labels: correction
 ---
