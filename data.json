@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-20T05:58:32.792Z",
+  "generatedAt": "2026-07-27T06:16:09.903Z",
   "summary": {
     "totalApps": 553,
     "shutdownCount": 52,
-    "freshCount": 108,
-    "staleCount": 134,
-    "abandonedCount": 259
+    "freshCount": 107,
+    "staleCount": 136,
+    "abandonedCount": 258
   },
   "apps": [
     {
@@ -93,16 +93,16 @@
         "iOS"
       ],
       "released": "2015-02-10",
-      "lastUpdated": "2026-06-16",
+      "lastUpdated": "2026-07-24",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Ministry of Health (MOH)",
       "isCritical": true,
       "itunes": {
         "trackName": "My Health-fitness&health",
-        "currentVersionReleaseDate": "2026-06-16T09:37:39Z",
-        "averageUserRating": 2,
-        "userRatingCount": 2
+        "currentVersionReleaseDate": "2026-07-24T08:36:06Z",
+        "averageUserRating": 3,
+        "userRatingCount": 3
       }
     },
     {
@@ -304,16 +304,16 @@
         "iOS"
       ],
       "released": "2015-11-03",
-      "lastUpdated": "2022-12-01",
+      "lastUpdated": "2025-02-06",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": {
-        "trackName": "Kedah Digital",
-        "currentVersionReleaseDate": "2022-12-01T06:20:48Z",
-        "averageUserRating": 5,
-        "userRatingCount": 5
+        "trackName": "SPACE MPSPK",
+        "currentVersionReleaseDate": "2025-02-06T06:31:25Z",
+        "averageUserRating": 4.74176,
+        "userRatingCount": 910
       }
     },
     {
@@ -631,8 +631,8 @@
       "itunes": {
         "trackName": "Prequel: Photo & Video Filters",
         "currentVersionReleaseDate": "2026-07-03T09:13:58Z",
-        "averageUserRating": 4.77414,
-        "userRatingCount": 15204
+        "averageUserRating": 4.774,
+        "userRatingCount": 15213
       }
     },
     {
@@ -926,12 +926,17 @@
         "iOS"
       ],
       "released": "2016-01-27",
-      "lastUpdated": "2026-01-28",
+      "lastUpdated": "2025-01-13",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "GPKI Mobile",
+        "currentVersionReleaseDate": "2025-01-13T08:30:52Z",
+        "averageUserRating": 4,
+        "userRatingCount": 4
+      }
     },
     {
       "appId": "69",
@@ -1065,8 +1070,8 @@
       "itunes": {
         "trackName": "PBTCare",
         "currentVersionReleaseDate": "2026-04-09T12:58:35Z",
-        "averageUserRating": 1.52885,
-        "userRatingCount": 104
+        "averageUserRating": 1.52381,
+        "userRatingCount": 105
       }
     },
     {
@@ -1122,12 +1127,17 @@
         "iOS"
       ],
       "released": "2016-02-16",
-      "lastUpdated": "2016-02-16",
+      "lastUpdated": "2026-07-21",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "MAPS.ME: Offline Maps, GPS Nav",
+        "currentVersionReleaseDate": "2026-07-21T07:33:43Z",
+        "averageUserRating": 4.79056,
+        "userRatingCount": 1695
+      }
     },
     {
       "appId": "183",
@@ -1138,12 +1148,17 @@
         "iOS"
       ],
       "released": "2016-03-03",
-      "lastUpdated": "2024-12-02",
+      "lastUpdated": "2020-12-17",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "MACCMobile",
+        "currentVersionReleaseDate": "2020-12-17T22:37:57Z",
+        "averageUserRating": 4.55556,
+        "userRatingCount": 9
+      }
     },
     {
       "appId": "185",
@@ -5995,7 +6010,7 @@
       "released": "2023-01-10",
       "lastUpdated": "2025-07-24",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
