@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-27T06:16:09.903Z",
+  "generatedAt": "2026-08-03T06:09:18.781Z",
   "summary": {
     "totalApps": 553,
     "shutdownCount": 52,
-    "freshCount": 107,
-    "staleCount": 136,
-    "abandonedCount": 258
+    "freshCount": 101,
+    "staleCount": 141,
+    "abandonedCount": 259
   },
   "apps": [
     {
@@ -41,8 +41,8 @@
       "itunes": {
         "trackName": "MyHRMIS Mobile",
         "currentVersionReleaseDate": "2026-02-23T02:35:53Z",
-        "averageUserRating": 2.05709,
-        "userRatingCount": 1086
+        "averageUserRating": 2.05612,
+        "userRatingCount": 1087
       }
     },
     {
@@ -93,16 +93,16 @@
         "iOS"
       ],
       "released": "2015-02-10",
-      "lastUpdated": "2026-07-24",
+      "lastUpdated": "2026-07-17",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Ministry of Health (MOH)",
       "isCritical": true,
       "itunes": {
-        "trackName": "My Health-fitness&health",
-        "currentVersionReleaseDate": "2026-07-24T08:36:06Z",
-        "averageUserRating": 3,
-        "userRatingCount": 3
+        "trackName": "Allianz MyHealth",
+        "currentVersionReleaseDate": "2026-07-17T00:56:59Z",
+        "averageUserRating": 4.58181,
+        "userRatingCount": 220
       }
     },
     {
@@ -304,16 +304,16 @@
         "iOS"
       ],
       "released": "2015-11-03",
-      "lastUpdated": "2025-02-06",
+      "lastUpdated": "2026-07-30",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": {
-        "trackName": "SPACE MPSPK",
-        "currentVersionReleaseDate": "2025-02-06T06:31:25Z",
-        "averageUserRating": 4.74176,
-        "userRatingCount": 910
+        "trackName": "Flexi Parking",
+        "currentVersionReleaseDate": "2026-07-30T17:02:44Z",
+        "averageUserRating": 2.62807,
+        "userRatingCount": 855
       }
     },
     {
@@ -623,16 +623,16 @@
         "iOS"
       ],
       "released": "2016-01-10",
-      "lastUpdated": "2026-07-03",
+      "lastUpdated": "2026-07-29",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": {
-        "trackName": "Prequel: Photo & Video Filters",
-        "currentVersionReleaseDate": "2026-07-03T09:13:58Z",
-        "averageUserRating": 4.774,
-        "userRatingCount": 15213
+        "trackName": "QQ",
+        "currentVersionReleaseDate": "2026-07-29T03:01:48Z",
+        "averageUserRating": 1.81873,
+        "userRatingCount": 1666
       }
     },
     {
@@ -891,17 +891,12 @@
         "iOS"
       ],
       "released": "2016-01-27",
-      "lastUpdated": "2026-02-23",
+      "lastUpdated": "2019-10-10",
       "shutdown": "2022-08-10",
       "status": "shutdown",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "MyHRMIS Mobile",
-        "currentVersionReleaseDate": "2026-02-23T02:35:53Z",
-        "averageUserRating": 2.05709,
-        "userRatingCount": 1086
-      }
+      "itunes": null
     },
     {
       "appId": "53",
@@ -984,17 +979,12 @@
         "iOS"
       ],
       "released": "2016-01-27",
-      "lastUpdated": "2026-05-06",
+      "lastUpdated": "2025-04-15",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "GAMMA.my",
-        "currentVersionReleaseDate": "2026-05-06T06:10:30Z",
-        "averageUserRating": 1.5625,
-        "userRatingCount": 32
-      }
+      "itunes": null
     },
     {
       "appId": "79",
@@ -1070,8 +1060,8 @@
       "itunes": {
         "trackName": "PBTCare",
         "currentVersionReleaseDate": "2026-04-09T12:58:35Z",
-        "averageUserRating": 1.52381,
-        "userRatingCount": 105
+        "averageUserRating": 1.51887,
+        "userRatingCount": 106
       }
     },
     {
@@ -1097,12 +1087,17 @@
         "iOS"
       ],
       "released": "2016-02-15",
-      "lastUpdated": "2016-02-15",
+      "lastUpdated": "2025-09-11",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "My Procurement Assistant",
+        "currentVersionReleaseDate": "2025-09-11T02:52:22Z",
+        "averageUserRating": 0,
+        "userRatingCount": 0
+      }
     },
     {
       "appId": "179",
@@ -1127,17 +1122,12 @@
         "iOS"
       ],
       "released": "2016-02-16",
-      "lastUpdated": "2026-07-21",
+      "lastUpdated": "2016-02-16",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "MAPS.ME: Offline Maps, GPS Nav",
-        "currentVersionReleaseDate": "2026-07-21T07:33:43Z",
-        "averageUserRating": 4.79056,
-        "userRatingCount": 1695
-      }
+      "itunes": null
     },
     {
       "appId": "183",
@@ -1169,12 +1159,17 @@
         "iOS"
       ],
       "released": "2016-03-17",
-      "lastUpdated": "2025-02-25",
+      "lastUpdated": "2019-12-30",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "myMQR",
+        "currentVersionReleaseDate": "2019-12-30T16:58:03Z",
+        "averageUserRating": 3,
+        "userRatingCount": 4
+      }
     },
     {
       "appId": "187",
@@ -1455,12 +1450,17 @@
         "iOS"
       ],
       "released": "2016-05-27",
-      "lastUpdated": "2018-05-24",
+      "lastUpdated": "2024-02-20",
       "shutdown": "2024-05-15",
       "status": "shutdown",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "Volunteer Smartphone Patrol",
+        "currentVersionReleaseDate": "2024-02-20T10:49:49Z",
+        "averageUserRating": 2.5072,
+        "userRatingCount": 347
+      }
     },
     {
       "appId": "231",
@@ -3522,7 +3522,7 @@
       "released": "2018-12-10",
       "lastUpdated": "2025-08-01",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
@@ -5806,7 +5806,7 @@
       "released": "2022-10-17",
       "lastUpdated": "2025-07-28",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
@@ -6441,7 +6441,7 @@
       "released": "2023-07-07",
       "lastUpdated": "2025-07-30",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
@@ -6617,7 +6617,7 @@
       "released": "2023-10-02",
       "lastUpdated": "2025-07-28",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
@@ -8121,7 +8121,7 @@
       "released": "2025-07-31",
       "lastUpdated": "2025-07-31",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
@@ -8135,7 +8135,7 @@
       "released": "2025-07-31",
       "lastUpdated": "2025-07-31",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
