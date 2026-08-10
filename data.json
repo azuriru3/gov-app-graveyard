@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-03T06:09:18.781Z",
+  "generatedAt": "2026-08-10T04:21:52.342Z",
   "summary": {
     "totalApps": 553,
     "shutdownCount": 52,
-    "freshCount": 101,
+    "freshCount": 102,
     "staleCount": 141,
-    "abandonedCount": 259
+    "abandonedCount": 258
   },
   "apps": [
     {
@@ -41,8 +41,8 @@
       "itunes": {
         "trackName": "MyHRMIS Mobile",
         "currentVersionReleaseDate": "2026-02-23T02:35:53Z",
-        "averageUserRating": 2.05612,
-        "userRatingCount": 1087
+        "averageUserRating": 2.05709,
+        "userRatingCount": 1086
       }
     },
     {
@@ -157,7 +157,7 @@
       "released": "2015-04-20",
       "lastUpdated": "2025-08-08",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": {
@@ -292,8 +292,8 @@
       "itunes": {
         "trackName": "Metronome - Rhythm & Tap Tempo",
         "currentVersionReleaseDate": "2024-06-26T08:19:37Z",
-        "averageUserRating": 4.23348,
-        "userRatingCount": 227
+        "averageUserRating": 4.23894,
+        "userRatingCount": 226
       }
     },
     {
@@ -312,8 +312,8 @@
       "itunes": {
         "trackName": "Flexi Parking",
         "currentVersionReleaseDate": "2026-07-30T17:02:44Z",
-        "averageUserRating": 2.62807,
-        "userRatingCount": 855
+        "averageUserRating": 2.62049,
+        "userRatingCount": 859
       }
     },
     {
@@ -623,16 +623,16 @@
         "iOS"
       ],
       "released": "2016-01-10",
-      "lastUpdated": "2026-07-29",
+      "lastUpdated": "2026-08-05",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": {
-        "trackName": "QQ",
-        "currentVersionReleaseDate": "2026-07-29T03:01:48Z",
-        "averageUserRating": 1.81873,
-        "userRatingCount": 1666
+        "trackName": "Prequel: Photo & Video Filters",
+        "currentVersionReleaseDate": "2026-08-05T08:29:53Z",
+        "averageUserRating": 4.77426,
+        "userRatingCount": 15261
       }
     },
     {
@@ -876,12 +876,17 @@
         "iOS"
       ],
       "released": "2016-01-27",
-      "lastUpdated": "2016-01-27",
+      "lastUpdated": "2026-08-04",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "National Disaster Management Agency (NADMA)",
       "isCritical": true,
-      "itunes": null
+      "itunes": {
+        "trackName": "Messenger",
+        "currentVersionReleaseDate": "2026-08-04T17:16:54Z",
+        "averageUserRating": 4.50013,
+        "userRatingCount": 222857
+      }
     },
     {
       "appId": "51",
@@ -891,12 +896,17 @@
         "iOS"
       ],
       "released": "2016-01-27",
-      "lastUpdated": "2019-10-10",
+      "lastUpdated": "2026-02-23",
       "shutdown": "2022-08-10",
       "status": "shutdown",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "MyHRMIS Mobile",
+        "currentVersionReleaseDate": "2026-02-23T02:35:53Z",
+        "averageUserRating": 2.05709,
+        "userRatingCount": 1086
+      }
     },
     {
       "appId": "53",
@@ -979,12 +989,17 @@
         "iOS"
       ],
       "released": "2016-01-27",
-      "lastUpdated": "2025-04-15",
+      "lastUpdated": "2026-05-06",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "GAMMA.my",
+        "currentVersionReleaseDate": "2026-05-06T06:10:30Z",
+        "averageUserRating": 1.5625,
+        "userRatingCount": 32
+      }
     },
     {
       "appId": "79",
@@ -1087,17 +1102,12 @@
         "iOS"
       ],
       "released": "2016-02-15",
-      "lastUpdated": "2025-09-11",
+      "lastUpdated": "2016-02-15",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "My Procurement Assistant",
-        "currentVersionReleaseDate": "2025-09-11T02:52:22Z",
-        "averageUserRating": 0,
-        "userRatingCount": 0
-      }
+      "itunes": null
     },
     {
       "appId": "179",
@@ -1122,12 +1132,17 @@
         "iOS"
       ],
       "released": "2016-02-16",
-      "lastUpdated": "2016-02-16",
+      "lastUpdated": "2026-08-04",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "AMap Global",
+        "currentVersionReleaseDate": "2026-08-04T04:11:46Z",
+        "averageUserRating": 4.61491,
+        "userRatingCount": 3890
+      }
     },
     {
       "appId": "183",
@@ -1159,17 +1174,12 @@
         "iOS"
       ],
       "released": "2016-03-17",
-      "lastUpdated": "2019-12-30",
+      "lastUpdated": "2025-02-25",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "myMQR",
-        "currentVersionReleaseDate": "2019-12-30T16:58:03Z",
-        "averageUserRating": 3,
-        "userRatingCount": 4
-      }
+      "itunes": null
     },
     {
       "appId": "187",
@@ -1450,17 +1460,12 @@
         "iOS"
       ],
       "released": "2016-05-27",
-      "lastUpdated": "2024-02-20",
+      "lastUpdated": "2018-05-24",
       "shutdown": "2024-05-15",
       "status": "shutdown",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "Volunteer Smartphone Patrol",
-        "currentVersionReleaseDate": "2024-02-20T10:49:49Z",
-        "averageUserRating": 2.5072,
-        "userRatingCount": 347
-      }
+      "itunes": null
     },
     {
       "appId": "231",
@@ -5047,7 +5052,7 @@
       "released": "2021-10-27",
       "lastUpdated": "2023-08-07",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
@@ -8677,21 +8682,6 @@
       "shutdown": null,
       "status": "active-abandoned",
       "agency": "Melaka State Government / NADMA",
-      "isCritical": true,
-      "itunes": null
-    },
-    {
-      "appId": "47",
-      "appName": "MyRaja",
-      "platforms": [
-        "Android",
-        "iOS"
-      ],
-      "released": "2016-01-27",
-      "lastUpdated": "2016-01-27",
-      "shutdown": null,
-      "status": "active-abandoned",
-      "agency": "National Disaster Management Agency (NADMA)",
       "isCritical": true,
       "itunes": null
     }
