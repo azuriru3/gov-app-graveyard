@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-10T04:21:52.342Z",
+  "generatedAt": "2026-08-17T03:39:33.238Z",
   "summary": {
     "totalApps": 553,
     "shutdownCount": 52,
-    "freshCount": 102,
+    "freshCount": 101,
     "staleCount": 141,
-    "abandonedCount": 258
+    "abandonedCount": 259
   },
   "apps": [
     {
@@ -93,16 +93,16 @@
         "iOS"
       ],
       "released": "2015-02-10",
-      "lastUpdated": "2026-07-17",
+      "lastUpdated": "2026-07-24",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Ministry of Health (MOH)",
       "isCritical": true,
       "itunes": {
-        "trackName": "Allianz MyHealth",
-        "currentVersionReleaseDate": "2026-07-17T00:56:59Z",
-        "averageUserRating": 4.58181,
-        "userRatingCount": 220
+        "trackName": "My Health-fitness&health",
+        "currentVersionReleaseDate": "2026-07-24T08:36:06Z",
+        "averageUserRating": 3,
+        "userRatingCount": 3
       }
     },
     {
@@ -312,8 +312,8 @@
       "itunes": {
         "trackName": "Flexi Parking",
         "currentVersionReleaseDate": "2026-07-30T17:02:44Z",
-        "averageUserRating": 2.62049,
-        "userRatingCount": 859
+        "averageUserRating": 2.61993,
+        "userRatingCount": 863
       }
     },
     {
@@ -631,8 +631,8 @@
       "itunes": {
         "trackName": "Prequel: Photo & Video Filters",
         "currentVersionReleaseDate": "2026-08-05T08:29:53Z",
-        "averageUserRating": 4.77426,
-        "userRatingCount": 15261
+        "averageUserRating": 4.77478,
+        "userRatingCount": 15305
       }
     },
     {
@@ -674,12 +674,17 @@
         "iOS"
       ],
       "released": "2016-01-21",
-      "lastUpdated": "2018-08-04",
+      "lastUpdated": "2026-08-01",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "MySejahtera",
+        "currentVersionReleaseDate": "2026-08-01T21:14:23Z",
+        "averageUserRating": 4.51002,
+        "userRatingCount": 167882
+      }
     },
     {
       "appId": "101",
@@ -876,17 +881,12 @@
         "iOS"
       ],
       "released": "2016-01-27",
-      "lastUpdated": "2026-08-04",
+      "lastUpdated": "2016-01-27",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-abandoned",
       "agency": "National Disaster Management Agency (NADMA)",
       "isCritical": true,
-      "itunes": {
-        "trackName": "Messenger",
-        "currentVersionReleaseDate": "2026-08-04T17:16:54Z",
-        "averageUserRating": 4.50013,
-        "userRatingCount": 222857
-      }
+      "itunes": null
     },
     {
       "appId": "51",
@@ -997,8 +997,8 @@
       "itunes": {
         "trackName": "GAMMA.my",
         "currentVersionReleaseDate": "2026-05-06T06:10:30Z",
-        "averageUserRating": 1.5625,
-        "userRatingCount": 32
+        "averageUserRating": 1.52941,
+        "userRatingCount": 34
       }
     },
     {
@@ -1067,17 +1067,12 @@
         "iOS"
       ],
       "released": "2016-01-27",
-      "lastUpdated": "2026-04-09",
+      "lastUpdated": "2016-01-27",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "PBTCare",
-        "currentVersionReleaseDate": "2026-04-09T12:58:35Z",
-        "averageUserRating": 1.51887,
-        "userRatingCount": 106
-      }
+      "itunes": null
     },
     {
       "appId": "173",
@@ -1102,12 +1097,17 @@
         "iOS"
       ],
       "released": "2016-02-15",
-      "lastUpdated": "2016-02-15",
+      "lastUpdated": "2025-09-11",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "My Procurement Assistant",
+        "currentVersionReleaseDate": "2025-09-11T02:52:22Z",
+        "averageUserRating": 0,
+        "userRatingCount": 0
+      }
     },
     {
       "appId": "179",
@@ -1132,16 +1132,16 @@
         "iOS"
       ],
       "released": "2016-02-16",
-      "lastUpdated": "2026-08-04",
+      "lastUpdated": "2026-08-13",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": {
         "trackName": "AMap Global",
-        "currentVersionReleaseDate": "2026-08-04T04:11:46Z",
-        "averageUserRating": 4.61491,
-        "userRatingCount": 3890
+        "currentVersionReleaseDate": "2026-08-13T03:00:50Z",
+        "averageUserRating": 4.61359,
+        "userRatingCount": 3900
       }
     },
     {
@@ -1174,12 +1174,17 @@
         "iOS"
       ],
       "released": "2016-03-17",
-      "lastUpdated": "2025-02-25",
+      "lastUpdated": "2019-12-30",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "myMQR",
+        "currentVersionReleaseDate": "2019-12-30T16:58:03Z",
+        "averageUserRating": 3,
+        "userRatingCount": 4
+      }
     },
     {
       "appId": "187",
@@ -7524,7 +7529,7 @@
       "released": "2025-01-15",
       "lastUpdated": "2025-08-15",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
@@ -8682,6 +8687,21 @@
       "shutdown": null,
       "status": "active-abandoned",
       "agency": "Melaka State Government / NADMA",
+      "isCritical": true,
+      "itunes": null
+    },
+    {
+      "appId": "47",
+      "appName": "MyRaja",
+      "platforms": [
+        "Android",
+        "iOS"
+      ],
+      "released": "2016-01-27",
+      "lastUpdated": "2016-01-27",
+      "shutdown": null,
+      "status": "active-abandoned",
+      "agency": "National Disaster Management Agency (NADMA)",
       "isCritical": true,
       "itunes": null
     }
