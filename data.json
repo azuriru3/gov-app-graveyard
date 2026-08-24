@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-17T03:39:33.238Z",
+  "generatedAt": "2026-08-24T03:43:31.654Z",
   "summary": {
     "totalApps": 553,
     "shutdownCount": 52,
-    "freshCount": 101,
-    "staleCount": 141,
-    "abandonedCount": 259
+    "freshCount": 99,
+    "staleCount": 144,
+    "abandonedCount": 258
   },
   "apps": [
     {
@@ -312,8 +312,8 @@
       "itunes": {
         "trackName": "Flexi Parking",
         "currentVersionReleaseDate": "2026-07-30T17:02:44Z",
-        "averageUserRating": 2.61993,
-        "userRatingCount": 863
+        "averageUserRating": 2.61893,
+        "userRatingCount": 866
       }
     },
     {
@@ -503,8 +503,8 @@
       "itunes": {
         "trackName": "ezAdu",
         "currentVersionReleaseDate": "2024-07-03T08:45:26Z",
-        "averageUserRating": 1.98148,
-        "userRatingCount": 54
+        "averageUserRating": 1.96364,
+        "userRatingCount": 55
       }
     },
     {
@@ -623,16 +623,16 @@
         "iOS"
       ],
       "released": "2016-01-10",
-      "lastUpdated": "2026-08-05",
+      "lastUpdated": "2026-08-20",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": {
-        "trackName": "Prequel: Photo & Video Filters",
-        "currentVersionReleaseDate": "2026-08-05T08:29:53Z",
-        "averageUserRating": 4.77478,
-        "userRatingCount": 15305
+        "trackName": "QQ",
+        "currentVersionReleaseDate": "2026-08-20T03:03:19Z",
+        "averageUserRating": 1.81818,
+        "userRatingCount": 1672
       }
     },
     {
@@ -682,8 +682,8 @@
       "itunes": {
         "trackName": "MySejahtera",
         "currentVersionReleaseDate": "2026-08-01T21:14:23Z",
-        "averageUserRating": 4.51002,
-        "userRatingCount": 167882
+        "averageUserRating": 4.51003,
+        "userRatingCount": 167880
       }
     },
     {
@@ -1067,12 +1067,17 @@
         "iOS"
       ],
       "released": "2016-01-27",
-      "lastUpdated": "2016-01-27",
+      "lastUpdated": "2026-04-09",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "PBTCare",
+        "currentVersionReleaseDate": "2026-04-09T12:58:35Z",
+        "averageUserRating": 1.51887,
+        "userRatingCount": 106
+      }
     },
     {
       "appId": "173",
@@ -1097,17 +1102,12 @@
         "iOS"
       ],
       "released": "2016-02-15",
-      "lastUpdated": "2025-09-11",
+      "lastUpdated": "2016-02-15",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "My Procurement Assistant",
-        "currentVersionReleaseDate": "2025-09-11T02:52:22Z",
-        "averageUserRating": 0,
-        "userRatingCount": 0
-      }
+      "itunes": null
     },
     {
       "appId": "179",
@@ -1132,17 +1132,12 @@
         "iOS"
       ],
       "released": "2016-02-16",
-      "lastUpdated": "2026-08-13",
+      "lastUpdated": "2016-02-16",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "AMap Global",
-        "currentVersionReleaseDate": "2026-08-13T03:00:50Z",
-        "averageUserRating": 4.61359,
-        "userRatingCount": 3900
-      }
+      "itunes": null
     },
     {
       "appId": "183",
@@ -1153,17 +1148,12 @@
         "iOS"
       ],
       "released": "2016-03-03",
-      "lastUpdated": "2020-12-17",
+      "lastUpdated": "2024-12-02",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "MACCMobile",
-        "currentVersionReleaseDate": "2020-12-17T22:37:57Z",
-        "averageUserRating": 4.55556,
-        "userRatingCount": 9
-      }
+      "itunes": null
     },
     {
       "appId": "185",
@@ -1174,17 +1164,12 @@
         "iOS"
       ],
       "released": "2016-03-17",
-      "lastUpdated": "2019-12-30",
+      "lastUpdated": "2025-02-25",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "myMQR",
-        "currentVersionReleaseDate": "2019-12-30T16:58:03Z",
-        "averageUserRating": 3,
-        "userRatingCount": 4
-      }
+      "itunes": null
     },
     {
       "appId": "187",
@@ -7091,7 +7076,7 @@
       "released": "2024-05-08",
       "lastUpdated": "2025-08-20",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
