@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-24T03:43:31.654Z",
+  "generatedAt": "2026-08-31T09:01:12.580Z",
   "summary": {
     "totalApps": 553,
     "shutdownCount": 52,
-    "freshCount": 99,
-    "staleCount": 144,
-    "abandonedCount": 258
+    "freshCount": 97,
+    "staleCount": 145,
+    "abandonedCount": 259
   },
   "apps": [
     {
@@ -93,16 +93,16 @@
         "iOS"
       ],
       "released": "2015-02-10",
-      "lastUpdated": "2026-07-24",
+      "lastUpdated": "2026-07-17",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Ministry of Health (MOH)",
       "isCritical": true,
       "itunes": {
-        "trackName": "My Health-fitness&health",
-        "currentVersionReleaseDate": "2026-07-24T08:36:06Z",
-        "averageUserRating": 3,
-        "userRatingCount": 3
+        "trackName": "Allianz MyHealth",
+        "currentVersionReleaseDate": "2026-07-17T00:56:59Z",
+        "averageUserRating": 4.58181,
+        "userRatingCount": 220
       }
     },
     {
@@ -312,8 +312,8 @@
       "itunes": {
         "trackName": "Flexi Parking",
         "currentVersionReleaseDate": "2026-07-30T17:02:44Z",
-        "averageUserRating": 2.61893,
-        "userRatingCount": 866
+        "averageUserRating": 2.61696,
+        "userRatingCount": 872
       }
     },
     {
@@ -623,16 +623,16 @@
         "iOS"
       ],
       "released": "2016-01-10",
-      "lastUpdated": "2026-08-20",
+      "lastUpdated": "2026-08-05",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": {
-        "trackName": "QQ",
-        "currentVersionReleaseDate": "2026-08-20T03:03:19Z",
-        "averageUserRating": 1.81818,
-        "userRatingCount": 1672
+        "trackName": "Free Fire MAX",
+        "currentVersionReleaseDate": "2026-08-05T04:01:39Z",
+        "averageUserRating": 4.17842,
+        "userRatingCount": 10212
       }
     },
     {
@@ -682,8 +682,8 @@
       "itunes": {
         "trackName": "MySejahtera",
         "currentVersionReleaseDate": "2026-08-01T21:14:23Z",
-        "averageUserRating": 4.51003,
-        "userRatingCount": 167880
+        "averageUserRating": 4.5099,
+        "userRatingCount": 167882
       }
     },
     {
@@ -1450,12 +1450,17 @@
         "iOS"
       ],
       "released": "2016-05-27",
-      "lastUpdated": "2018-05-24",
+      "lastUpdated": "2024-02-20",
       "shutdown": "2024-05-15",
       "status": "shutdown",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "Volunteer Smartphone Patrol",
+        "currentVersionReleaseDate": "2024-02-20T10:49:49Z",
+        "averageUserRating": 2.51282,
+        "userRatingCount": 351
+      }
     },
     {
       "appId": "231",
@@ -4435,7 +4440,7 @@
       "released": "2020-09-14",
       "lastUpdated": "2025-08-25",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
@@ -6276,7 +6281,7 @@
       "released": "2023-04-11",
       "lastUpdated": "2023-08-28",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
@@ -7944,7 +7949,7 @@
       "released": "2025-05-07",
       "lastUpdated": "2025-08-27",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
