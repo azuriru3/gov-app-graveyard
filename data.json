@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T09:01:12.580Z",
+  "generatedAt": "2026-09-07T07:38:50.764Z",
   "summary": {
     "totalApps": 553,
     "shutdownCount": 52,
@@ -61,7 +61,7 @@
       "itunes": {
         "trackName": "JAKIM Touch",
         "currentVersionReleaseDate": "2022-04-09T07:04:37Z",
-        "averageUserRating": 2.8,
+        "averageUserRating": 2.71111,
         "userRatingCount": 45
       }
     },
@@ -191,14 +191,14 @@
         "iOS"
       ],
       "released": "2015-04-21",
-      "lastUpdated": "2025-11-17",
+      "lastUpdated": "2026-09-07",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Malaysian Meteorological Department (MetMalaysia)",
       "isCritical": true,
       "itunes": {
         "trackName": "myCuaca",
-        "currentVersionReleaseDate": "2025-11-17T00:07:27Z",
+        "currentVersionReleaseDate": "2026-09-07T03:37:17Z",
         "averageUserRating": 2.16038,
         "userRatingCount": 212
       }
@@ -312,8 +312,8 @@
       "itunes": {
         "trackName": "Flexi Parking",
         "currentVersionReleaseDate": "2026-07-30T17:02:44Z",
-        "averageUserRating": 2.61696,
-        "userRatingCount": 872
+        "averageUserRating": 2.616,
+        "userRatingCount": 875
       }
     },
     {
@@ -623,16 +623,16 @@
         "iOS"
       ],
       "released": "2016-01-10",
-      "lastUpdated": "2026-08-05",
+      "lastUpdated": "2026-08-31",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": {
-        "trackName": "Free Fire MAX",
-        "currentVersionReleaseDate": "2026-08-05T04:01:39Z",
-        "averageUserRating": 4.17842,
-        "userRatingCount": 10212
+        "trackName": "Prequel: Photo & Video Filters",
+        "currentVersionReleaseDate": "2026-08-31T10:25:30Z",
+        "averageUserRating": 4.77539,
+        "userRatingCount": 15360
       }
     },
     {
@@ -674,17 +674,12 @@
         "iOS"
       ],
       "released": "2016-01-21",
-      "lastUpdated": "2026-08-01",
+      "lastUpdated": "2018-08-04",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "MySejahtera",
-        "currentVersionReleaseDate": "2026-08-01T21:14:23Z",
-        "averageUserRating": 4.5099,
-        "userRatingCount": 167882
-      }
+      "itunes": null
     },
     {
       "appId": "101",
@@ -1102,12 +1097,17 @@
         "iOS"
       ],
       "released": "2016-02-15",
-      "lastUpdated": "2016-02-15",
+      "lastUpdated": "2026-08-26",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "My Procurement Assistant",
+        "currentVersionReleaseDate": "2026-08-26T05:28:59Z",
+        "averageUserRating": 0,
+        "userRatingCount": 0
+      }
     },
     {
       "appId": "179",
@@ -1132,12 +1132,17 @@
         "iOS"
       ],
       "released": "2016-02-16",
-      "lastUpdated": "2016-02-16",
+      "lastUpdated": "2026-09-02",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "AMap Global",
+        "currentVersionReleaseDate": "2026-09-02T04:06:12Z",
+        "averageUserRating": 4.61521,
+        "userRatingCount": 3919
+      }
     },
     {
       "appId": "183",
@@ -1450,17 +1455,12 @@
         "iOS"
       ],
       "released": "2016-05-27",
-      "lastUpdated": "2024-02-20",
+      "lastUpdated": "2018-05-24",
       "shutdown": "2024-05-15",
       "status": "shutdown",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "Volunteer Smartphone Patrol",
-        "currentVersionReleaseDate": "2024-02-20T10:49:49Z",
-        "averageUserRating": 2.51282,
-        "userRatingCount": 351
-      }
+      "itunes": null
     },
     {
       "appId": "231",
@@ -4316,7 +4316,7 @@
       "released": "2020-06-10",
       "lastUpdated": "2025-09-04",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
@@ -4567,7 +4567,7 @@
       "released": "2021-01-19",
       "lastUpdated": "2023-09-05",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
