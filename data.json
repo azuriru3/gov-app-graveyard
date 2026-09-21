@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-14T08:14:06.332Z",
+  "generatedAt": "2026-09-21T08:19:24.584Z",
   "summary": {
     "totalApps": 553,
     "shutdownCount": 52,
     "freshCount": 95,
-    "staleCount": 144,
-    "abandonedCount": 262
+    "staleCount": 143,
+    "abandonedCount": 263
   },
   "apps": [
     {
@@ -191,16 +191,16 @@
         "iOS"
       ],
       "released": "2015-04-21",
-      "lastUpdated": "2026-09-12",
+      "lastUpdated": "2026-09-17",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Malaysian Meteorological Department (MetMalaysia)",
       "isCritical": true,
       "itunes": {
         "trackName": "myCuaca",
-        "currentVersionReleaseDate": "2026-09-12T00:05:40Z",
-        "averageUserRating": 2.16901,
-        "userRatingCount": 213
+        "currentVersionReleaseDate": "2026-09-17T16:36:12Z",
+        "averageUserRating": 2.20183,
+        "userRatingCount": 218
       }
     },
     {
@@ -312,8 +312,8 @@
       "itunes": {
         "trackName": "Flexi Parking",
         "currentVersionReleaseDate": "2026-07-30T17:02:44Z",
-        "averageUserRating": 2.61416,
-        "userRatingCount": 876
+        "averageUserRating": 2.61048,
+        "userRatingCount": 878
       }
     },
     {
@@ -623,16 +623,16 @@
         "iOS"
       ],
       "released": "2016-01-10",
-      "lastUpdated": "2026-09-10",
+      "lastUpdated": "2026-09-19",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": {
-        "trackName": "QQ",
-        "currentVersionReleaseDate": "2026-09-10T03:04:34Z",
-        "averageUserRating": 1.81959,
-        "userRatingCount": 1674
+        "trackName": "Prequel: Photo & Video Filters",
+        "currentVersionReleaseDate": "2026-09-19T00:18:43Z",
+        "averageUserRating": 4.77463,
+        "userRatingCount": 15406
       }
     },
     {
@@ -984,12 +984,17 @@
         "iOS"
       ],
       "released": "2016-01-27",
-      "lastUpdated": "2025-04-15",
+      "lastUpdated": "2026-05-06",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "GAMMA.my",
+        "currentVersionReleaseDate": "2026-05-06T06:10:30Z",
+        "averageUserRating": 1.52941,
+        "userRatingCount": 34
+      }
     },
     {
       "appId": "79",
@@ -1092,17 +1097,12 @@
         "iOS"
       ],
       "released": "2016-02-15",
-      "lastUpdated": "2026-08-26",
+      "lastUpdated": "2016-02-15",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "My Procurement Assistant",
-        "currentVersionReleaseDate": "2026-08-26T05:28:59Z",
-        "averageUserRating": 0,
-        "userRatingCount": 0
-      }
+      "itunes": null
     },
     {
       "appId": "179",
@@ -1359,12 +1359,17 @@
         "iOS"
       ],
       "released": "2016-05-06",
-      "lastUpdated": "2019-08-06",
+      "lastUpdated": "2024-03-15",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "mySWCorp",
+        "currentVersionReleaseDate": "2024-03-15T13:07:44Z",
+        "averageUserRating": 5,
+        "userRatingCount": 1
+      }
     },
     {
       "appId": "219",
@@ -2618,7 +2623,7 @@
       "released": "2017-09-18",
       "lastUpdated": "2023-09-21",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
@@ -5183,17 +5188,12 @@
         "iOS"
       ],
       "released": "2021-12-16",
-      "lastUpdated": "2022-04-09",
+      "lastUpdated": "2021-12-16",
       "shutdown": null,
       "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "JAKIM Touch",
-        "currentVersionReleaseDate": "2022-04-09T07:04:37Z",
-        "averageUserRating": 2.71111,
-        "userRatingCount": 45
-      }
+      "itunes": null
     },
     {
       "appId": "807",
