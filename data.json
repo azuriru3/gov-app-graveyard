@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-21T08:19:24.584Z",
+  "generatedAt": "2026-09-28T09:04:23.180Z",
   "summary": {
     "totalApps": 553,
     "shutdownCount": 52,
-    "freshCount": 95,
-    "staleCount": 143,
+    "freshCount": 94,
+    "staleCount": 144,
     "abandonedCount": 263
   },
   "apps": [
@@ -93,14 +93,14 @@
         "iOS"
       ],
       "released": "2015-02-10",
-      "lastUpdated": "2026-07-17",
+      "lastUpdated": "2026-09-24",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Ministry of Health (MOH)",
       "isCritical": true,
       "itunes": {
         "trackName": "Allianz MyHealth",
-        "currentVersionReleaseDate": "2026-07-17T00:56:59Z",
+        "currentVersionReleaseDate": "2026-09-24T04:56:23Z",
         "averageUserRating": 4.58181,
         "userRatingCount": 220
       }
@@ -191,16 +191,16 @@
         "iOS"
       ],
       "released": "2015-04-21",
-      "lastUpdated": "2026-09-17",
+      "lastUpdated": "2026-09-24",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Malaysian Meteorological Department (MetMalaysia)",
       "isCritical": true,
       "itunes": {
         "trackName": "myCuaca",
-        "currentVersionReleaseDate": "2026-09-17T16:36:12Z",
-        "averageUserRating": 2.20183,
-        "userRatingCount": 218
+        "currentVersionReleaseDate": "2026-09-24T19:42:56Z",
+        "averageUserRating": 2.21239,
+        "userRatingCount": 226
       }
     },
     {
@@ -304,16 +304,16 @@
         "iOS"
       ],
       "released": "2015-11-03",
-      "lastUpdated": "2026-07-30",
+      "lastUpdated": "2022-12-01",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": {
-        "trackName": "Flexi Parking",
-        "currentVersionReleaseDate": "2026-07-30T17:02:44Z",
-        "averageUserRating": 2.61048,
-        "userRatingCount": 878
+        "trackName": "Kedah Digital",
+        "currentVersionReleaseDate": "2022-12-01T06:20:48Z",
+        "averageUserRating": 5,
+        "userRatingCount": 5
       }
     },
     {
@@ -495,14 +495,14 @@
         "iOS"
       ],
       "released": "2015-12-24",
-      "lastUpdated": "2026-09-10",
+      "lastUpdated": "2026-09-22",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": {
         "trackName": "ezAdu",
-        "currentVersionReleaseDate": "2026-09-10T00:25:51Z",
+        "currentVersionReleaseDate": "2026-09-22T20:13:36Z",
         "averageUserRating": 1.96364,
         "userRatingCount": 55
       }
@@ -623,16 +623,16 @@
         "iOS"
       ],
       "released": "2016-01-10",
-      "lastUpdated": "2026-09-19",
+      "lastUpdated": "2026-09-24",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": {
-        "trackName": "Prequel: Photo & Video Filters",
-        "currentVersionReleaseDate": "2026-09-19T00:18:43Z",
-        "averageUserRating": 4.77463,
-        "userRatingCount": 15406
+        "trackName": "QQ",
+        "currentVersionReleaseDate": "2026-09-24T11:31:03Z",
+        "averageUserRating": 1.81807,
+        "userRatingCount": 1682
       }
     },
     {
@@ -992,8 +992,8 @@
       "itunes": {
         "trackName": "GAMMA.my",
         "currentVersionReleaseDate": "2026-05-06T06:10:30Z",
-        "averageUserRating": 1.52941,
-        "userRatingCount": 34
+        "averageUserRating": 1.51429,
+        "userRatingCount": 35
       }
     },
     {
@@ -1070,8 +1070,8 @@
       "itunes": {
         "trackName": "PBTCare",
         "currentVersionReleaseDate": "2026-04-09T12:58:35Z",
-        "averageUserRating": 1.51887,
-        "userRatingCount": 106
+        "averageUserRating": 1.52381,
+        "userRatingCount": 105
       }
     },
     {
@@ -1143,17 +1143,12 @@
         "iOS"
       ],
       "released": "2016-03-03",
-      "lastUpdated": "2020-12-17",
+      "lastUpdated": "2024-12-02",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "MACCMobile",
-        "currentVersionReleaseDate": "2020-12-17T22:37:57Z",
-        "averageUserRating": 4.55556,
-        "userRatingCount": 9
-      }
+      "itunes": null
     },
     {
       "appId": "185",
