@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-28T09:04:23.180Z",
+  "generatedAt": "2026-10-05T09:46:01.360Z",
   "summary": {
     "totalApps": 553,
     "shutdownCount": 52,
     "freshCount": 94,
-    "staleCount": 144,
-    "abandonedCount": 263
+    "staleCount": 145,
+    "abandonedCount": 262
   },
   "apps": [
     {
@@ -53,14 +53,14 @@
         "iOS"
       ],
       "released": "2014-12-22",
-      "lastUpdated": "2022-04-09",
+      "lastUpdated": "2026-10-04",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Department of Islamic Development Malaysia (JAKIM)",
       "isCritical": false,
       "itunes": {
         "trackName": "JAKIM Touch",
-        "currentVersionReleaseDate": "2022-04-09T07:04:37Z",
+        "currentVersionReleaseDate": "2026-10-04T08:33:55Z",
         "averageUserRating": 2.71111,
         "userRatingCount": 45
       }
@@ -304,16 +304,16 @@
         "iOS"
       ],
       "released": "2015-11-03",
-      "lastUpdated": "2022-12-01",
+      "lastUpdated": "2026-07-30",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": {
-        "trackName": "Kedah Digital",
-        "currentVersionReleaseDate": "2022-12-01T06:20:48Z",
-        "averageUserRating": 5,
-        "userRatingCount": 5
+        "trackName": "Flexi Parking",
+        "currentVersionReleaseDate": "2026-07-30T17:02:44Z",
+        "averageUserRating": 2.60544,
+        "userRatingCount": 882
       }
     },
     {
@@ -623,16 +623,16 @@
         "iOS"
       ],
       "released": "2016-01-10",
-      "lastUpdated": "2026-09-24",
+      "lastUpdated": "2026-09-16",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": {
-        "trackName": "QQ",
-        "currentVersionReleaseDate": "2026-09-24T11:31:03Z",
-        "averageUserRating": 1.81807,
-        "userRatingCount": 1682
+        "trackName": "Free Fire MAX x NARUTO",
+        "currentVersionReleaseDate": "2026-09-16T03:31:01Z",
+        "averageUserRating": 4.18585,
+        "userRatingCount": 10616
       }
     },
     {
@@ -891,17 +891,12 @@
         "iOS"
       ],
       "released": "2016-01-27",
-      "lastUpdated": "2026-02-23",
+      "lastUpdated": "2019-10-10",
       "shutdown": "2022-08-10",
       "status": "shutdown",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "MyHRMIS Mobile",
-        "currentVersionReleaseDate": "2026-02-23T02:35:53Z",
-        "averageUserRating": 2.05709,
-        "userRatingCount": 1086
-      }
+      "itunes": null
     },
     {
       "appId": "53",
@@ -947,17 +942,12 @@
         "iOS"
       ],
       "released": "2016-01-27",
-      "lastUpdated": "2020-12-17",
+      "lastUpdated": null,
       "shutdown": "2025-06-20",
       "status": "shutdown",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "SKUAD ANTIDADAH",
-        "currentVersionReleaseDate": "2020-12-17T22:39:38Z",
-        "averageUserRating": 2.375,
-        "userRatingCount": 8
-      }
+      "itunes": null
     },
     {
       "appId": "73",
@@ -984,17 +974,12 @@
         "iOS"
       ],
       "released": "2016-01-27",
-      "lastUpdated": "2026-05-06",
+      "lastUpdated": "2025-04-15",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "GAMMA.my",
-        "currentVersionReleaseDate": "2026-05-06T06:10:30Z",
-        "averageUserRating": 1.51429,
-        "userRatingCount": 35
-      }
+      "itunes": null
     },
     {
       "appId": "79",
@@ -1070,8 +1055,8 @@
       "itunes": {
         "trackName": "PBTCare",
         "currentVersionReleaseDate": "2026-04-09T12:58:35Z",
-        "averageUserRating": 1.52381,
-        "userRatingCount": 105
+        "averageUserRating": 1.51887,
+        "userRatingCount": 106
       }
     },
     {
@@ -1097,12 +1082,17 @@
         "iOS"
       ],
       "released": "2016-02-15",
-      "lastUpdated": "2016-02-15",
+      "lastUpdated": "2026-09-23",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "Tender Watch",
+        "currentVersionReleaseDate": "2026-09-23T00:30:04Z",
+        "averageUserRating": 0,
+        "userRatingCount": 0
+      }
     },
     {
       "appId": "179",
@@ -1159,12 +1149,17 @@
         "iOS"
       ],
       "released": "2016-03-17",
-      "lastUpdated": "2025-02-25",
+      "lastUpdated": "2019-12-30",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "myMQR",
+        "currentVersionReleaseDate": "2019-12-30T16:58:03Z",
+        "averageUserRating": 3,
+        "userRatingCount": 4
+      }
     },
     {
       "appId": "187",
@@ -1354,17 +1349,12 @@
         "iOS"
       ],
       "released": "2016-05-06",
-      "lastUpdated": "2024-03-15",
+      "lastUpdated": "2019-08-06",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "mySWCorp",
-        "currentVersionReleaseDate": "2024-03-15T13:07:44Z",
-        "averageUserRating": 5,
-        "userRatingCount": 1
-      }
+      "itunes": null
     },
     {
       "appId": "219",
@@ -1780,12 +1770,17 @@
         "iOS"
       ],
       "released": "2016-08-12",
-      "lastUpdated": "2020-11-19",
+      "lastUpdated": "2026-03-07",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "SINERGI MPPD",
+        "currentVersionReleaseDate": "2026-03-07T17:42:09Z",
+        "averageUserRating": 0,
+        "userRatingCount": 0
+      }
     },
     {
       "appId": "285",
@@ -2047,12 +2042,17 @@
         "iOS"
       ],
       "released": "2017-01-13",
-      "lastUpdated": "2025-01-06",
+      "lastUpdated": "2025-01-28",
       "shutdown": null,
       "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "SMA Yuran",
+        "currentVersionReleaseDate": "2025-01-28T11:12:41Z",
+        "averageUserRating": 0,
+        "userRatingCount": 0
+      }
     },
     {
       "appId": "331",
@@ -2247,12 +2247,17 @@
         "iOS"
       ],
       "released": "2017-03-23",
-      "lastUpdated": "2025-11-27",
+      "lastUpdated": "2024-02-22",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "InfoBencanaJKM",
+        "currentVersionReleaseDate": "2024-02-22T09:56:27Z",
+        "averageUserRating": 4.625,
+        "userRatingCount": 8
+      }
     },
     {
       "appId": "367",
@@ -2293,12 +2298,17 @@
         "iOS"
       ],
       "released": "2017-04-13",
-      "lastUpdated": "2023-11-27",
+      "lastUpdated": "2017-04-26",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "100 TIP TANAMAN",
+        "currentVersionReleaseDate": "2017-04-26T10:55:02Z",
+        "averageUserRating": 4.33333,
+        "userRatingCount": 6
+      }
     },
     {
       "appId": "373",
@@ -3256,12 +3266,17 @@
         "iOS"
       ],
       "released": "2018-09-04",
-      "lastUpdated": "2018-09-04",
+      "lastUpdated": "2026-10-02",
       "shutdown": "2022-11-10",
       "status": "shutdown",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "ChatGPT",
+        "currentVersionReleaseDate": "2026-10-02T14:26:33Z",
+        "averageUserRating": 4.82256,
+        "userRatingCount": 457628
+      }
     },
     {
       "appId": "529",
@@ -3361,12 +3376,17 @@
         "iOS"
       ],
       "released": "2018-09-20",
-      "lastUpdated": "2020-04-02",
+      "lastUpdated": "2026-09-28",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "WhatsApp Business",
+        "currentVersionReleaseDate": "2026-09-28T15:56:30Z",
+        "averageUserRating": 4.70336,
+        "userRatingCount": 156027
+      }
     },
     {
       "appId": "547",
@@ -6628,7 +6648,7 @@
       "released": "2023-10-05",
       "lastUpdated": "2023-10-05",
       "shutdown": null,
-      "status": "active-stale",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
@@ -8052,7 +8072,7 @@
       "released": "2025-06-30",
       "lastUpdated": "2025-10-02",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
@@ -8286,7 +8306,7 @@
       "released": "2025-09-18",
       "lastUpdated": "2025-10-01",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
@@ -8330,7 +8350,7 @@
       "released": "2025-10-03",
       "lastUpdated": "2025-10-03",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
