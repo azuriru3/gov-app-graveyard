@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-12T09:56:41.952Z",
+  "generatedAt": "2026-10-19T08:14:08.862Z",
   "summary": {
     "totalApps": 553,
     "shutdownCount": 52,
-    "freshCount": 89,
-    "staleCount": 147,
-    "abandonedCount": 265
+    "freshCount": 84,
+    "staleCount": 156,
+    "abandonedCount": 261
   },
   "apps": [
     {
@@ -61,8 +61,8 @@
       "itunes": {
         "trackName": "JAKIM Touch",
         "currentVersionReleaseDate": "2026-10-04T08:33:55Z",
-        "averageUserRating": 2.9,
-        "userRatingCount": 50
+        "averageUserRating": 2.90196,
+        "userRatingCount": 51
       }
     },
     {
@@ -191,16 +191,16 @@
         "iOS"
       ],
       "released": "2015-04-21",
-      "lastUpdated": "2026-10-11",
+      "lastUpdated": "2026-10-15",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Malaysian Meteorological Department (MetMalaysia)",
       "isCritical": true,
       "itunes": {
         "trackName": "myCuaca",
-        "currentVersionReleaseDate": "2026-10-11T23:39:57Z",
-        "averageUserRating": 2.23684,
-        "userRatingCount": 228
+        "currentVersionReleaseDate": "2026-10-15T16:15:14Z",
+        "averageUserRating": 2.68478,
+        "userRatingCount": 276
       }
     },
     {
@@ -292,8 +292,8 @@
       "itunes": {
         "trackName": "Metronome - Rhythm & Tap Tempo",
         "currentVersionReleaseDate": "2024-06-26T08:19:37Z",
-        "averageUserRating": 4.23894,
-        "userRatingCount": 226
+        "averageUserRating": 4.24228,
+        "userRatingCount": 227
       }
     },
     {
@@ -304,16 +304,16 @@
         "iOS"
       ],
       "released": "2015-11-03",
-      "lastUpdated": "2022-12-01",
+      "lastUpdated": "2026-07-30",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": {
-        "trackName": "Kedah Digital",
-        "currentVersionReleaseDate": "2022-12-01T06:20:48Z",
-        "averageUserRating": 5,
-        "userRatingCount": 5
+        "trackName": "Flexi Parking",
+        "currentVersionReleaseDate": "2026-07-30T17:02:44Z",
+        "averageUserRating": 2.58969,
+        "userRatingCount": 892
       }
     },
     {
@@ -636,8 +636,8 @@
       "itunes": {
         "trackName": "Prequel: Photo & Video Filters",
         "currentVersionReleaseDate": "2026-10-12T08:23:36Z",
-        "averageUserRating": 4.77475,
-        "userRatingCount": 15459
+        "averageUserRating": 4.77453,
+        "userRatingCount": 15474
       }
     },
     {
@@ -952,12 +952,17 @@
         "iOS"
       ],
       "released": "2016-01-27",
-      "lastUpdated": null,
+      "lastUpdated": "2026-10-02",
       "shutdown": "2025-06-20",
       "status": "shutdown",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "MySKUAD",
+        "currentVersionReleaseDate": "2026-10-02T14:21:23Z",
+        "averageUserRating": 0,
+        "userRatingCount": 0
+      }
     },
     {
       "appId": "73",
@@ -984,17 +989,12 @@
         "iOS"
       ],
       "released": "2016-01-27",
-      "lastUpdated": "2026-05-06",
+      "lastUpdated": "2025-04-15",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "GAMMA.my",
-        "currentVersionReleaseDate": "2026-05-06T06:10:30Z",
-        "averageUserRating": 1.51429,
-        "userRatingCount": 35
-      }
+      "itunes": null
     },
     {
       "appId": "79",
@@ -1062,17 +1062,12 @@
         "iOS"
       ],
       "released": "2016-01-27",
-      "lastUpdated": "2026-04-09",
+      "lastUpdated": "2016-01-27",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-abandoned",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "PBTCare",
-        "currentVersionReleaseDate": "2026-04-09T12:58:35Z",
-        "averageUserRating": 1.51887,
-        "userRatingCount": 106
-      }
+      "itunes": null
     },
     {
       "appId": "173",
@@ -1097,12 +1092,17 @@
         "iOS"
       ],
       "released": "2016-02-15",
-      "lastUpdated": "2016-02-15",
+      "lastUpdated": "2026-08-26",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "My Procurement Assistant",
+        "currentVersionReleaseDate": "2026-08-26T05:28:59Z",
+        "averageUserRating": 0,
+        "userRatingCount": 0
+      }
     },
     {
       "appId": "179",
@@ -1127,16 +1127,16 @@
         "iOS"
       ],
       "released": "2016-02-16",
-      "lastUpdated": "2026-10-09",
+      "lastUpdated": "2026-10-13",
       "shutdown": null,
       "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": {
-        "trackName": "Google Maps",
-        "currentVersionReleaseDate": "2026-10-09T17:57:18Z",
-        "averageUserRating": 4.71919,
-        "userRatingCount": 261717
+        "trackName": "AMap Global",
+        "currentVersionReleaseDate": "2026-10-13T04:09:54Z",
+        "averageUserRating": 4.617,
+        "userRatingCount": 3953
       }
     },
     {
@@ -1148,17 +1148,12 @@
         "iOS"
       ],
       "released": "2016-03-03",
-      "lastUpdated": "2020-12-17",
+      "lastUpdated": "2024-12-02",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "MACCMobile",
-        "currentVersionReleaseDate": "2020-12-17T22:37:57Z",
-        "averageUserRating": 4.55556,
-        "userRatingCount": 9
-      }
+      "itunes": null
     },
     {
       "appId": "185",
@@ -1169,17 +1164,12 @@
         "iOS"
       ],
       "released": "2016-03-17",
-      "lastUpdated": "2019-12-30",
+      "lastUpdated": "2025-02-25",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": {
-        "trackName": "myMQR",
-        "currentVersionReleaseDate": "2019-12-30T16:58:03Z",
-        "averageUserRating": 3,
-        "userRatingCount": 4
-      }
+      "itunes": null
     },
     {
       "appId": "187",
@@ -1339,12 +1329,17 @@
         "iOS"
       ],
       "released": "2016-05-03",
-      "lastUpdated": "2016-05-03",
+      "lastUpdated": "2026-10-12",
       "shutdown": null,
-      "status": "active-abandoned",
+      "status": "active-fresh",
       "agency": "Unclassified",
       "isCritical": false,
-      "itunes": null
+      "itunes": {
+        "trackName": "PriceCatcher",
+        "currentVersionReleaseDate": "2026-10-12T18:01:35Z",
+        "averageUserRating": 3.07477,
+        "userRatingCount": 107
+      }
     },
     {
       "appId": "213",
@@ -5667,7 +5662,7 @@
       "released": "2022-07-19",
       "lastUpdated": "2025-10-14",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
@@ -5683,7 +5678,7 @@
       "released": "2022-07-26",
       "lastUpdated": "2025-10-16",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
@@ -5967,7 +5962,7 @@
       "released": "2023-01-09",
       "lastUpdated": "2025-10-14",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
@@ -8078,7 +8073,7 @@
       "released": "2025-07-10",
       "lastUpdated": "2025-10-13",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
@@ -8234,7 +8229,7 @@
       "released": "2025-08-19",
       "lastUpdated": "2025-10-16",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
@@ -8265,7 +8260,7 @@
       "released": "2025-08-26",
       "lastUpdated": "2025-10-15",
       "shutdown": null,
-      "status": "active-fresh",
+      "status": "active-stale",
       "agency": "Unclassified",
       "isCritical": false,
       "itunes": null
